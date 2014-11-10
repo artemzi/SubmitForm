@@ -19,7 +19,7 @@
 
         <div class="container">
             <div class="row-fluid">
-                <a href="#" class="thumbnail pull-right" style="margin-top: 15px;">
+                <a href="#" class="pull-right" style="margin-top: 15px;">
                     <img src="img/logo-white.png">
                 </a>
             </div>
