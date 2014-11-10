@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row-fluid">
                 <a href="#" class="thumbnail pull-right">
-                    <img data-src="js/logo.png">
+                    <img data-src="img/logo.png">
                 </a>
             </div>
             <div class="row-fluid">
