@@ -19,6 +19,9 @@
             .img-responsive {
                 margin: 0 auto;
             }
+            .button{
+                margin:0px auto; //it will center them
+            }
         </style>
 	</head>
 	<body>
@@ -34,27 +37,24 @@
                     <div class="col-xs-32 col-sm-2 col-md-2 col-lg-2">
 
                     </div>
-                    <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+                    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
                         <div class="form-group">
                             <!--                    <label for="InputText">Some text</label>-->
-                            <input type="test" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                            <input type="text" name="first" class="form-control" id="FirstString" placeholder="Enter line one">
                         </div>
                         <div class="form-group">
                             <!--                    <label for="InputText">Some text</label>-->
-                            <input type="test" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                            <input type="text" name="second" class="form-control" id="SecondString" placeholder="Enter line two">
                         </div>
                         <br/>
                         <div class="form-group">
-                            <label for="exampleInputFile">File input</label>
-                            <input type="file" id="exampleInputFile">
-                            <p class="help-block">Example block-level help text here.</p>
+                            <input type="file" id="InputFile">
                         </div>
-                        
-                            <button type="submit" class="btn btn-success" style="width: 100%;">Submit</button>
-                            <button type="submit" class="btn btn-danger" style="width: 100%;">Clear</button>
 
-                    </div>
-                    <div class="col-xs-32 col-sm-2 col-md-2 col-lg-2">
+                       <div style="margin-left: 35%">
+                           <button type="submit" class='btn btn-success'>Present</button>
+                           <button type="submit" class='btn btn-danger'>Clear</button>
+                       </div>
 
                     </div>
                 </form>

@@ -27,7 +27,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5314438" vertical-offset="573" max-vertical-offset="1702">
+            <state vertical-scroll-proportion="0.54545456" vertical-offset="573" max-vertical-offset="1702">
               <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
               <folding />
             </state>
@@ -61,7 +61,7 @@
     <option name="x" value="1393" />
     <option name="y" value="24" />
     <option name="width" value="1364" />
-    <option name="height" value="1205" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -165,7 +165,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1393" y="24" width="1364" height="1205" extended-state="4" />
+    <frame x="1393" y="24" width="1364" height="1176" extended-state="4" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -257,7 +257,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5314438" vertical-offset="573" max-vertical-offset="1702">
+        <state vertical-scroll-proportion="0.54545456" vertical-offset="573" max-vertical-offset="1702">
           <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
           <folding />
         </state>
