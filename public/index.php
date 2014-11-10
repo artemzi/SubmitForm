@@ -16,7 +16,6 @@
         </style>
 	</head>
 	<body>
-		<h1 class="text-center">Testing example</h1>
 
         <div class="container">
             <div class="row-fluid">
