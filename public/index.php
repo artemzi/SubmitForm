@@ -11,7 +11,7 @@
         <script src="http://imsky.github.com/holder/holder.js"></script>
         <style>
             body {
-                background-image: url("img/bg.jpg");
+                background-color: #efefef;
             }
         </style>
 	</head>
@@ -19,8 +19,8 @@
 
         <div class="container">
             <div class="row-fluid">
-                <a href="#" class="thumbnail pull-right">
-                    <img data-src="img/logo.png">
+                <a href="#" class="thumbnail pull-right" style="margin-top: 15px;">
+                    <img src="img/logo.png">
                 </a>
             </div>
             <div class="row-fluid">
