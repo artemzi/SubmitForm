@@ -21,7 +21,7 @@
         <div class="container">
             <div class="row-fluid">
                 <a href="#" class="thumbnail pull-right">
-                    <img data-src="holder.js/100x200">
+                    <img data-src="js/logo.png">
                 </a>
             </div>
             <div class="row-fluid">
