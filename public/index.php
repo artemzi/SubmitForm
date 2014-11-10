@@ -11,7 +11,7 @@
         <script src="http://imsky.github.com/holder/holder.js"></script>
         <style>
             body {
-                background-color: #efefef;
+                background-image: url("img/marble.jpg");
             }
         </style>
 	</head>
